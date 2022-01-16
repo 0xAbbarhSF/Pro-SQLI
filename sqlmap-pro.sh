@@ -7,7 +7,7 @@ echo -e "\e[1;31m[°]__________________________________________________________[
 echo -e "\t \e[1;34 mAutomated SQL INJECTION - VULNERABILITY ASSESMENT \e[0m"
 echo -e "\t\t\tTOOL BASED ON SQLMAP"
 echo -e "\e[1;33m             Github : https://github.com/StarFord-NG \e[0m"
-echo -e "\e[1;35m                    Codded By : StarFord \e[0m"
+echo -e "\e[1;35m                    Codded By : StarFord-NG \e[0m"
 echo -e "\e[1;31m[°]___________________________________________________________[°]\e[0m"
 
 echo ""
