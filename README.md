@@ -9,7 +9,7 @@
 Automated SQL INJECTION TOOL BASED ON SQLMAP, -For Termux
 
 
-<img src="https://serving.photos.photobox.com/540837340fb79fbf7b8477dec2db3854e9115b91dbaaa3e91a232f00438a457dc14e501e.jpg"/>
+<img src="https://raw.githubusercontent.com/AbbarhSF/Pro-SQLI/main/IMG_20210721_185449_223~2.jpg"/>
 
 
 ## 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 ⚙️
@@ -26,7 +26,7 @@ Automated SQL INJECTION TOOL BASED ON SQLMAP, -For Termux
 
 > cd $HOME
 
-> git clone https://github.com/Star-Ford/Pro-SQLI
+> git clone https://github.com/AbbarhSF/Pro-SQLI
 
 > cd Pro-SQLI
 
