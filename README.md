@@ -26,7 +26,7 @@ Automated SQL INJECTION TOOL BASED ON SQLMAP, -For Termux
 
 > cd $HOME
 
-> git clone https://github.com/AbbarhSF/Pro-SQLI
+> git clone https://github.com/0xAbbarhSF/Pro-SQLI
 
 > cd Pro-SQLI
 
